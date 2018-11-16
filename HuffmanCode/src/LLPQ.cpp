@@ -119,8 +119,7 @@ void LLPQ::insertUnique(char c) {
 			  tmp = tmp->next;
 		  }
 	  }
-    //Use gen code to get to node
-    //LLNode *tmp = path/to/node/in/LLPQ
+
 
   }
 }
