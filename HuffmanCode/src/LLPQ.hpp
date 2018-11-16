@@ -12,6 +12,7 @@ class LLPQ {
     int size;
     
   public:
+    friend class LLHuff;
     LLPQ();
 
     ~LLPQ();
